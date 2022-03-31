@@ -15,7 +15,7 @@ h1 {
   padding: 3rem 1.5rem;
   /* margin-right: 25rem;
   margin-left: 25rem; */
-  background: url(./images/food-background.jpg);
+  background: url(../images/food-background.jpg);
   background-size:cover;
 }
 
@@ -50,7 +50,12 @@ h1 {
   margin: 0;
 }
 
-
+.card {
+  border: 1px solid black;
+}
+.card-heder {
+  border: 1px solid black;
+}
 
 
  
