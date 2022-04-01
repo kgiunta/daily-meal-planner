@@ -56,12 +56,11 @@ h1 {
   display: block;
 }
 
-.card {
-  border: 1px solid black;
+.columns {
+  justify-content: center;
 }
-.card-heder {
-  border: 1px solid black;
-}
+
+
 
 
  
