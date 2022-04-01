@@ -22,6 +22,10 @@ Below is a screen shot of the application in use.
 
 ![Recipe ingredients shown in the web application](./assets/images/app-screenshot.png)
 
+The links to this application are below:
+https://kgiunta.github.io/daily-meal-planner/ <br/>
+https://github.com/kgiunta/daily-meal-planner/
+
 ## Credits
 
 Below are the people who I collaborated with to complete this project:
