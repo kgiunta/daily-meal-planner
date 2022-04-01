@@ -23,9 +23,13 @@ h1 {
   min-height: 57vh;
 }
 
+
+
+
 .card {
   border: 1px solid black;
   margin-bottom: 5px;
+
 }
 .card-header {
   border: 1px solid black;
@@ -34,8 +38,10 @@ h1 {
 }
 
 .cardThumbnail {
-  align-self: center;
+  display: block;
+  margin-left: auto;
   height: 100px;
+  
 }
 
 h3 {
@@ -48,6 +54,8 @@ h3 {
 }
 .card-content {
   padding: 2px;
+  text-align: center;
+  
 }
 
 #shoppingList {
